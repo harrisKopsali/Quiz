@@ -3,6 +3,9 @@ This is a simple JavaScript quiz application that tests your knowledge of JavaSc
 
 ## Table of Contents
 1. [Quiz Questions](#quiz-questions)
+2. [Project Structure](#project-structure)
+3. [Features](#features)
+4. [Credits](#credits)
 
 ## How to Use
 
