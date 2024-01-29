@@ -1,4 +1,5 @@
-Quiz is a simple JavaScript quiz application that tests your knowledge of JavaScript concepts. Do you think you know JavaScript well? Find out by answering a series of true/false questions!
+# JavaScript Quiz 
+This is a simple JavaScript quiz application that tests your knowledge of JavaScript concepts. Do you think you know JavaScript well? Find out by answering a series of true/false questions!
 
 ## How to Use
 
