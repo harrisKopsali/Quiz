@@ -32,7 +32,9 @@ style.css: Stylesheet for the visual presentation of the quiz.
 
 ## 4. Features ✨
 i.   Dynamic quiz questions and explanations.
+
 ii.  Score tracking for correct answers.
+
 iii. Easy navigation to the next question.
 
 ## 5. Credits 👏
