@@ -2,7 +2,7 @@
 This is a simple JavaScript quiz application that tests your knowledge of JavaScript concepts. Do you think you know JavaScript well? Find out by answering a series of true/false questions!
 
 ## Table of Contents
-1. [Quiz Questions](#quiz-questions)
+1. [Quiz Questions](#https://github.com/harrisKopsali/Quiz/blob/main/README.md#1-quiz-questions)
 2. [Project Structure](#project-structure)
 3. [Features](#features)
 4. [Credits](#credits)
