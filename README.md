@@ -11,10 +11,9 @@ This is a simple JavaScript quiz application that tests your knowledge of JavaSc
 ## 1. Getting started 🚀
 Clone the repository to your local machine:
 
--> bash:
-[git clone] (https://github.com/harrisKopsali/Quiz)
+-> bash: [git clone] https://github.com/harrisKopsali/Quiz
 
-Open the index.html file in your preferred web browser.
+-> Open the index.html file in your preferred web browser.
 
 -> Start answering the quiz questions! 
 Click on either the "True" or "False" button to make your selection. The application will provide feedback on your answers.
