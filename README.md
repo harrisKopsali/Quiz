@@ -5,7 +5,7 @@ Quiz is a simple JavaScript quiz application that tests your knowledge of JavaSc
 Clone the repository to your local machine:
 
 -> bash:
-[git clone] (#https://github.com/harrisKopsali/Quiz)
+[git clone] (https://github.com/harrisKopsali/Quiz)
 Open the index.html file in your preferred web browser.
 
 -> Start answering the quiz questions! 
