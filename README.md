@@ -1,6 +1,9 @@
 # JavaScript Quiz 
 This is a simple JavaScript quiz application that tests your knowledge of JavaScript concepts. Do you think you know JavaScript well? Find out by answering a series of true/false questions!
 
+## Table of Contents
+1. [Quiz Questions](#quiz-questions)
+
 ## How to Use
 
 Clone the repository to your local machine:
