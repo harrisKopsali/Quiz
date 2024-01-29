@@ -9,7 +9,6 @@ This is a simple JavaScript quiz application that tests your knowledge of JavaSc
 5. [Credits](#5-credits-) 👏
 
 ## 1. Getting started 🚀
-
 Clone the repository to your local machine:
 
 -> bash:
@@ -39,7 +38,9 @@ iii. Easy navigation to the next question.
 
 ## 5. Credits 👏
 Created by [Harris Kopsali]
+
 Inspired by the desire to test JavaScript knowledge.
+
 Feel free to contribute or provide feedback. 
 
-# Happy quizzing!
+# Happy quizzing! 😊 🎉
