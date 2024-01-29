@@ -2,11 +2,11 @@
 This is a simple JavaScript quiz application that tests your knowledge of JavaScript concepts. Do you think you know JavaScript well? Find out by answering a series of true/false questions!
 
 ## Table of Contents
-1. [Getting started](#1-getting-started) 🚀
-2. [Quiz Questions](#2-quiz-questions) 📚
-3. [Project Structure](#3-project-structure) 📁
-4. [Features](#4-features) ✨
-5. [Credits](#5-credits) 👏
+1. [Getting started](#1-getting-started-) 🚀
+2. [Quiz Questions](#2-quiz-questions-) 📚
+3. [Project Structure](#3-project-structure-) 📁
+4. [Features](#4-features-) ✨
+5. [Credits](#5-credits-) 👏
 
 ## 1. Getting started 🚀
 
